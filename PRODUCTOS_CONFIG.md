@@ -128,6 +128,3 @@ http://localhost:8069/web#action=product.product_template_action
 2. Crea categorías como: "Servicios", "Hardware", "Cloud", etc.
 3. Asigna los productos a sus categorías
 
----
-
-**¿Necesitas ayuda con alguna configuración manual?** Puedo guiarte paso a paso.
