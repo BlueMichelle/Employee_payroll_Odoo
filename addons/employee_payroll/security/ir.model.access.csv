@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_employee_payroll,access_employee_payroll,model_employee_payroll,base.group_user,1,1,1,0
+access_employee_payroll_line,access_employee_payroll_line,model_employee_payroll_line,base.group_user,1,0,0,0
+access_employee_tax_declaration,access_employee_tax_declaration,model_employee_tax_declaration,base.group_user,1,1,1,0
